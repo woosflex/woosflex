@@ -21,6 +21,7 @@
 ## Projects I’m Currently Working On:
 - **[GCVisualyst](https://github.com/woosflex/GCVisualyst)**: A tool for **visualizing gene expression** data to identify patterns in genomic analysis.
 - **[AutophiGen](https://github.com/woosflex/AutophiGen)**: A **pipeline for automatic gene network reconstruction** and analysis.
+- **[RNASeq Analysis](https://github.com/woosflex/rnaseq_analysis)**: A repository containing **reproducible workflow** from QC of Reads to transcriptomic analysis.
 
 ## Projects I've Completed:
 - **[GRN Analysis](https://github.com/woosflex/grn_analysis)**: A comprehensive **pipeline for gene regulatory network reconstruction** and analysis with integration to downstream data analytics.
