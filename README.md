@@ -11,17 +11,9 @@ I'm a **Bioinformatics Master's student** currently interning at **IIIT-Delhi**.
 
 ---
 
-## 🛠️ Languages & Tools
-*My digital toolbox for breaking and fixing things:*
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45px" title="C"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45px" title="C++"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45px" title="Python"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="45px" title="R"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/nextflow-io/trademark/master/nextflow-icon.svg" width="45px" title="Nextflow"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45px" title="Linux"/>&nbsp;
-</div>
+[![Woosflex's GitHub stats](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/woosflex)
+[![Top Langs](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/woosflex)
+Stats widget made by [Anurag Hazra](https://github.com/anuraghazra), check it out at [this repo](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -56,4 +48,3 @@ A comprehensive pipeline I built for **Gene Regulatory Network reconstruction**.
 </p>
 
 ---
-[![Woosflex's GitHub stats](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/anuraghazra/github-readme-stats)
