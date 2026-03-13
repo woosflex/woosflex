@@ -10,9 +10,12 @@ I'm a **Bioinformatics Master's student** currently interning at **IIIT-Delhi**.
 - 🐧 **My OS:** I'm a Linux enthusiast. If I'm not coding, I'm probably breaking my **tiling window manager** config.
 
 ---
-
-[![Woosflex's GitHub stats](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/woosflex)
-[![Top Langs](https://github-readme-stats-jade-eight.vercel.app/api/top-langs?username=woosflex)](https://github.com/woosflex)
+<a href="https://github.com/woosflex">
+  <img height=200 align="center" src="https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex" />
+</a>
+<a href="https://github.com/woosflex">
+  <img height=200 align="center" src="https://github-readme-stats-jade-eight.vercel.app/api/top-langs?username=woosflex&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 Stats widget made by [Anurag Hazra](https://github.com/anuraghazra), check it out at [this repo](https://github.com/anuraghazra/github-readme-stats)
 
