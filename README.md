@@ -12,7 +12,8 @@ I'm a **Bioinformatics Master's student** currently interning at **IIIT-Delhi**.
 ---
 
 [![Woosflex's GitHub stats](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/woosflex)
-[![Top Langs](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/woosflex)
+[![Top Langs](https://github-readme-stats-jade-eight.vercel.app/api/top-langs?username=woosflex)](https://github.com/woosflex)
+
 Stats widget made by [Anurag Hazra](https://github.com/anuraghazra), check it out at [this repo](https://github.com/anuraghazra/github-readme-stats)
 
 ---
