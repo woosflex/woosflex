@@ -56,12 +56,4 @@ A comprehensive pipeline I built for **Gene Regulatory Network reconstruction**.
 </p>
 
 ---
-
-## 🎭 The Dual Persona: Woosflex vs. Sucro
-**Woosflex** is my digital persona for code, logic, and biological pipelines. But if you ever want to check my **music taste** instead of my **code taste** (if such a thing exists), meet **Sucro**.
-
-I make music in my free time under the alias **SucroExe**. It's where I go to debug my brain.
-<br>
-<a href="https://www.youtube.com/@SucroExe">
-  <img src="https://img.shields.io/badge/YouTube-SucroExe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="SucroExe YouTube"/>
-</a>
+[![Woosflex's GitHub stats](https://github-readme-stats-jade-eight.vercel.app/api?username=woosflex)](https://github.com/anuraghazra/github-readme-stats)
